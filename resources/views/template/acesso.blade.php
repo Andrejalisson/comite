@@ -13,7 +13,7 @@ License: For each use you must have a valid license purchased only from above li
 <html lang="en">
 <!--begin::Head-->
 <head><base href="../../../">
-    <title>{{$title}} | Fortech GPS</title>
+    <title>{{$title}} | MDB-CE</title>
     <meta charset="utf-8" />
     <meta name="description" content="The most advanced Bootstrap Admin Theme on Themeforest trusted by 100,000 beginners and professionals. Multi-demo, Dark Mode, RTL support and complete React, Angular, Vue, Asp.Net Core, Blazor, Django, Flask &amp; Laravel versions. Grab your copy now and get life-time updates for free." />
     <meta name="keywords" content="Metronic, Bootstrap, Bootstrap 5, Angular, VueJs, React, Asp.Net Core, Blazor, Django, Flask &amp; Laravel, admin themes, web design, figma, web development, free templates, free admin themes, bootstrap theme, bootstrap template, bootstrap dashboard, bootstrap dak mode, bootstrap button, bootstrap datepicker, bootstrap timepicker, fullcalendar, datatables, flaticon" />
@@ -50,14 +50,7 @@ License: For each use you must have a valid license purchased only from above li
         <div class="d-flex flex-center w-lg-50 pt-15 pt-lg-0 px-10">
             <!--begin::Aside-->
             <div class="d-flex flex-column">
-                <!--begin::Logo-->
-                <a href="/" class="mb-7">
-                    <img alt="Logo" src="/assets/media/logos/logoFortech.png" />
-                </a>
-                <!--end::Logo-->
-                <!--begin::Title-->
-                <h2 class="text-white fw-normal m-0">Rastreamento veicular e gestão de frotas.</h2>
-                <!--end::Title-->
+                
             </div>
             <!--begin::Aside-->
         </div>
