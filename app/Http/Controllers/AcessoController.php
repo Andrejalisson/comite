@@ -73,6 +73,8 @@ class AcessoController extends Controller{
             $request->session()->flash('sucesso', 'Bom trabalho!');
             return redirect('/Funcionarios');
         }
+        $request->session()->flash('sucesso', 'Bom trabalho!');
+            return redirect('/');
     }
 
 
